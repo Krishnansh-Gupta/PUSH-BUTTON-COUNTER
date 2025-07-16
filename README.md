@@ -34,3 +34,4 @@ Conclusion
 In conclusion, a push button counter is a fundamental yet powerful tool in digital electronics and embedded systems. It introduces learners to important concepts such as input polling, state change detection, debouncing, and variable manipulation. With real-world uses in automation, monitoring, and user interfaces, push button counters are not only educational but also practical components of modern embedded applications.
 *OUTPUT 
 ![Image](https://github.com/user-attachments/assets/2a0a94ed-6434-40a5-8404-12221694a529)
+![Image](https://github.com/user-attachments/assets/d69a2715-d081-46c9-8b34-7515ee7076dd)
